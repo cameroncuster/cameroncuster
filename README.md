@@ -2,7 +2,7 @@
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=cameroncuster.cameroncuster)
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=cameroncuster&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+![Cameron Custer's GitHub stats](https://github-readme-stats.vercel.app/api?username=cameroncuster&theme=dark&show_icons=true)
 
 <!--
 **cameroncuster/cameroncuster** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

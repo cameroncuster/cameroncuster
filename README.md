@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Cameron Custer
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=${cameroncuster}.${cameroncuster})
+![visitors](https://visitor-badge.glitch.me/badge?page_id=cameroncuster.cameroncuster)
 
 <!--
 **cameroncuster/cameroncuster** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
